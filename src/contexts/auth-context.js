@@ -8,7 +8,7 @@ const HANDLERS = {
 };
 
 const initialState = {
-  isAuthenticated: false,
+  isAuthenticated: true,
   isLoading: true,
   user: null
 };
