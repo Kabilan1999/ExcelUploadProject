@@ -191,7 +191,7 @@ const Page = () => {
   return (
     <>
       <Head>
-        <title>Data Upload | Devias Kit</title>
+        <title>Data Upload</title>
       </Head>
       <Box
         component="main"
