@@ -10,7 +10,7 @@ import { SvgIcon } from '@mui/material';
 
 export const items = [
   {
-    title: 'Customers',
+    title: 'Data Upload',
     path: '/',
     icon: (
       <SvgIcon fontSize="small">
